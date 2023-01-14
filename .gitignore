@@ -1,6 +1,7 @@
 # XSB prolog
-.xwam
+*.xwam
 
-# Mac
-.DS_Store
+*.DS_Store
+*.swp
+
 
